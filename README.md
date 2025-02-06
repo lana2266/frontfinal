@@ -1,2 +1,2 @@
 # frontfinal
-Finalo work of front-end development
+Final work of front-end development
